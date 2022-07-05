@@ -8,4 +8,4 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=angel-alfonzo&theme=blueberry" />
 </p>
 
-![angel-alfonzo' Activity Graph](https://activity-graph.herokuapp.com/graph?username=angel-alfonzo&custom_title=angel-alfonzo's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)
+![angel-alfonzo' Activity Graph](https://activity-graph.herokuapp.com/graph?username=angel-alfonzo&custom_title=angel-alfonzo's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&line=6dbef7&point=add7ff&color=27e8a7)
