@@ -1,7 +1,7 @@
 - 👋 Hi
-- 👀 I’m interested in MERN stack web applications
+- 👀 I’m interested in MERN and MEVN stacks web applications
 - 🌱 I’m currently working on React/Next/Gatsby, Vue/Laravel Projects
-- 💞️ I’m looking to collaborate on Remote Companies
+- 💞️ I’m looking to collaborate on Remote Companies 
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=angel-alfonzo&show_icons=true&theme=blueberry" />
